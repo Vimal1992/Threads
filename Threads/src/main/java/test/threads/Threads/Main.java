@@ -17,6 +17,7 @@ public class Main {
 			}
 		}
 		consumer.consume(queue1);
+		abc
 
 	}
 
